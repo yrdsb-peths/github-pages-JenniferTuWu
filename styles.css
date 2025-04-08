@@ -18,12 +18,12 @@
 
 body {
     background-color: var(--bg-color);
-    color: var(--text-color);
+    color: #4B2E83;
     transition: background 0.3s, color 0.3s;
-    font-family: Arial, sans-serif;
+    font-family: 'Playfair Display', serif;
     margin: 0;
     padding: 20px;
-}
+  }  
 
 button {
     padding: 10px 20px;
